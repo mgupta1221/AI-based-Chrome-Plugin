@@ -1,0 +1,8 @@
+{
+  "azure_openai": {
+    "endpoint": "<AZURE OPEN AI ENDPOINT>",
+    "deployment_name": "<AZURE OPEN AI DEPLOYMENT NAME>",
+    "api_key": "<AZURE OPEN AI API KEY>",
+    "api_version": "<AZURE OPEN AI API VERSION>"
+  }
+}
